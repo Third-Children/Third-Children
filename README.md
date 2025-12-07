@@ -1,8 +1,5 @@
 <div align="center">
 
-![NERV](https://img.shields.io/badge/NERV-ONLY-b00000?style=for-the-badge&logo=rss&logoColor=white)
-![TOP SECRET](https://img.shields.io/badge/CLASSIFIED-TOP%20SECRET-000000?style=for-the-badge)
-
 # ⚠ EMERGENCY: ANGEL APPROACHING ⚠
 
 <img src="https://github.com/Third-Children.png" width="200" style="border-radius: 50%;">
