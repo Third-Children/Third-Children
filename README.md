@@ -50,17 +50,13 @@
 <br>
 
 ### 📊 Contribution Graph (My Heart Rate)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BETAER-08&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BETAER-08&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BETAER-08&theme=react-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BETAER-08&color=blue&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Third-Children&color=red&style=flat-square" />
 </p>
 
 ---
