@@ -1,35 +1,29 @@
 <div align="center">
 
-![NERV](https://img.shields.io/badge/NERV-ONLY-red?style=for-the-badge&logo=rss&logoColor=white)
-![TOP SECRET](https://img.shields.io/badge/CLASSIFIED-TOP%20SECRET-000000?style=for-the-badge)
+# "I mustn't run away..." 
+### (from Merge Conflicts)
 
-# ⚠ EMERGENCY: ANGEL APPROACHING ⚠
+![Shinji](https://img.shields.io/badge/Mental_State-CRITICAL-purple?style=for-the-badge)
+![EVA-01](https://img.shields.io/badge/EVA_01-BERSERK_MODE-green?style=for-the-badge)
 
-### 👤 PILOT PROFILE: THIRD CHILDREN
 </div>
 
----
+### 👋 Hi, I'm Shinji.
+Father called me to pilot the robot (write code), so I'm here.
 
-**🆔 ID:** `IKARI-SHINJI-01`
-**🤖 UNIT:** `EVA-01 TEST TYPE`
-**📉 SYNC RATIO:** `41.3%` (Unstable)
-**🎧 CURRENT STATUS:** `Listening to SDAT Track 26`
+- 🔭 I’m currently working on **Saving Tokyo-3**
+- 🌱 I’m currently learning **How to get along with Asuka**
+- 👯 I’m looking to collaborate on **Getting into the damn robot**
+- 💬 Ask me about **Daddy issues**
 
----
+### 🎧 My SDAT Playlist (Coding Music)
+1. *Cruel Angel's Thesis* - Loop
+2. *Fly Me To The Moon* - Loop
+3. *White Noise* - Loop
 
-### 🖥️ SYSTEM KERNEL (Tech Stack)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-### 📝 MISSION LOG (Recent Activity)
-> "I mustn't run away... I mustn't run away... I mustn't run away..."
->
-> *(Translation: I am currently debugging a critical error.)*
+### 📈 Synchronization Rate (GitHub Stats)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Third-Children&show_icons=true&theme=tokyonight&hide_border=true" alt="Shinji's Stats" />
+</p>
 
-### ⚠️ WARNING
-此の ページは NERV 権限 者のみ 閲覧 可能 です。
-**This repository is under the jurisdiction of Gendo Ikari.**
-
-<div align="center">
-<img src="https://media.giphy.com/media/OpYV9CBVZOb1S/giphy.gif" width="100%">
-</div>
+> **Note:** If I disappear for a while, I'm probably dissolved in LCL. Please contact Katsuragi Misato.
