@@ -1,43 +1,63 @@
 <div align="center">
 
-# 👏 CONGRATULATIONS! 👏
-## Omedetou! Omedetou!
+# 🚨 I HATE THIS ROBOT 🚨
+### (And by robot, I mean `git push --force`)
 
-<img src="https://media1.tenor.com/m/X9x1X4vX4xAAAAAd/congratulations-evangelion.gif" width="100%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NweHoxZnN4eHM0eHl5eHl5eHl5eHl5eHl5eHl5eHl5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Diym3aZOqAuOiYekq/giphy.gif" width="400">
 
-### You have found Shinji's Repository.
-*(It doesn't make sense, just like the ending.)*
-
-<br>
-
-![Thank You Father](https://img.shields.io/badge/THANK_YOU-FATHER-black?style=flat-square)
-![Goodbye Mother](https://img.shields.io/badge/GOODBYE-MOTHER-black?style=flat-square)
-![And All The Children](https://img.shields.io/badge/AND_ALL-THE_CHILDREN-black?style=flat-square)
-![Congratulations](https://img.shields.io/badge/CONGRATULATIONS-!-orange?style=flat-square)
-
-<br>
-<br>
-
-## 🧠 Philosophy of My Code
-> "Maybe I can learn to love myself?"
->
-> **Narrator:** *No, he pushed a bug to production.*
+### "GET IN THE REPOSITORY, SHINJI."
+### "Or Rei will have to refactor it again."
 
 <br>
 
-### 🛠️ Tools I use while hallucinating
-- **Editors:** VS Code (Visual Synchro Code)
-- **OS:** LCL (Liquid Computer Logic)
-- **Coffee:** Misato's Cheap Beer 🍺
+![Mental Status](https://img.shields.io/badge/MENTAL_HEALTH-CRITICAL_ERROR-red?style=for-the-badge&logo=xbox&logoColor=white)
+![Daddy Issues](https://img.shields.io/badge/DADDY_ISSUES-OVER_9000-black?style=for-the-badge)
+![Sync Ratio](https://img.shields.io/badge/SYNC_RATIO-400%25_(LCL_SOUP)-purple?style=for-the-badge)
+
+<br>
+<br>
+
+## 📉 My Current State (Updated hourly)
+</div>
+
+- **Monday:** I mustn't run away... 🏃
+- **Tuesday:** I mustn't run away... 🏃
+- **Wednesday:** *[screaming geometrically]* 🔷
+- **Thursday:** Waiting for Misato to pick me up 🍺
+- **Friday:** **HUMAN INSTRUMENTALITY PROJECT (Deploy to Prod)** 💥
 
 <br>
 
-### 📉 GitHub Stats (Human Instrumentality In Progress)
-<img src="https://github-readme-stats.vercel.app/api?username=Third-Children&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<div align="center">
+
+## 🗑️ Technologies I use to suffer
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
+*(It hurts like an AT Field)*
+<br>
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+*(Harder than communicating with Father)*
+
+<br>
+<br>
+
+### 📊 Contribution Graph (My Heart Rate)
+<img src="https://github-readme-stats.vercel.app/api?username=Third-Children&show_icons=true&theme=buefy&hide_border=true&hide_title=true" />
 
 <br>
 
-### ✉️ Contact Me
-**Please don't.** I am currently dissolving into the primordial soup.
+### 🏆 Achievements
+| Badge | Description |
+| :---: | :--- |
+| 🏥 | **Hospital Ceiling Gazer** (Stared at code for 4 hours doing nothing) |
+| 🏃 | **Professional Runner** (Deleted repo and fled to local shell) |
+| 🎧 | **Track 26 Enjoyer** (Ignored all pull requests) |
+
+<br>
+
+> **Note:** If this code works, it's a miracle. If it breaks, it's an Angel attack.
+> <br>
+> Don't ask me to fix it. I'm just a 14-year-old boy.
+
+<img src="https://media.giphy.com/media/ydyZ0KaHpiyGI/giphy.gif" width="100%">
 
 </div>
