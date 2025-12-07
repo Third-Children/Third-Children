@@ -1,63 +1,43 @@
 <div align="center">
 
-# 🚨 I HATE THIS ROBOT 🚨
-### (And by robot, I mean `git push --force`)
+![NERV](https://img.shields.io/badge/NERV-ONLY-b00000?style=for-the-badge&logo=rss&logoColor=white)
+![TOP SECRET](https://img.shields.io/badge/CLASSIFIED-TOP%20SECRET-000000?style=for-the-badge)
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NweHoxZnN4eHM0eHl5eHl5eHl5eHl5eHl5eHl5eHl5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Diym3aZOqAuOiYekq/giphy.gif" width="400">
+# ⚠ EMERGENCY: ANGEL APPROACHING ⚠
 
-### "GET IN THE REPOSITORY, SHINJI."
-### "Or Rei will have to refactor it again."
+<img src="https://github.com/Third-Children.png" width="200" style="border-radius: 50%;">
 
-<br>
-
-![Mental Status](https://img.shields.io/badge/MENTAL_HEALTH-CRITICAL_ERROR-red?style=for-the-badge&logo=xbox&logoColor=white)
-![Daddy Issues](https://img.shields.io/badge/DADDY_ISSUES-OVER_9000-black?style=for-the-badge)
-![Sync Ratio](https://img.shields.io/badge/SYNC_RATIO-400%25_(LCL_SOUP)-purple?style=for-the-badge)
-
-<br>
-<br>
-
-## 📉 My Current State (Updated hourly)
+### 👤 PILOT PROFILE: THIRD CHILDREN
 </div>
 
-- **Monday:** I mustn't run away... 🏃
-- **Tuesday:** I mustn't run away... 🏃
-- **Wednesday:** *[screaming geometrically]* 🔷
-- **Thursday:** Waiting for Misato to pick me up 🍺
-- **Friday:** **HUMAN INSTRUMENTALITY PROJECT (Deploy to Prod)** 💥
+---
+
+### 📂 SYSTEM DATA
+| Category | Data |
+| :--- | :--- |
+| **🆔 ID** | `IKARI-SHINJI-01` |
+| **🤖 UNIT** | `EVA-01 TEST TYPE` |
+| **📉 SYNC** | `41.3%` (Unstable) |
+| **🎧 BGM** | `SDAT Track 25-26` |
+
+---
+
+### 🖥️ KERNEL STACK
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 📝 MISSION LOG
+> "I mustn't run away... I mustn't run away..."
+>
+> *(Current Status: Debugging in production)*
 
 <br>
+
+### ⚠️ WARNING
+此の ページは NERV 権限 者のみ 閲覧 可能 です。
+**This repository is under the jurisdiction of Gendo Ikari.**
 
 <div align="center">
-
-## 🗑️ Technologies I use to suffer
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
-*(It hurts like an AT Field)*
-<br>
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-*(Harder than communicating with Father)*
-
-<br>
-<br>
-
-### 📊 Contribution Graph (My Heart Rate)
-<img src="https://github-readme-stats.vercel.app/api?username=Third-Children&show_icons=true&theme=buefy&hide_border=true&hide_title=true" />
-
-<br>
-
-### 🏆 Achievements
-| Badge | Description |
-| :---: | :--- |
-| 🏥 | **Hospital Ceiling Gazer** (Stared at code for 4 hours doing nothing) |
-| 🏃 | **Professional Runner** (Deleted repo and fled to local shell) |
-| 🎧 | **Track 26 Enjoyer** (Ignored all pull requests) |
-
-<br>
-
-> **Note:** If this code works, it's a miracle. If it breaks, it's an Angel attack.
-> <br>
-> Don't ask me to fix it. I'm just a 14-year-old boy.
-
-<img src="https://media.giphy.com/media/ydyZ0KaHpiyGI/giphy.gif" width="100%">
-
+  <h3>⛔ ACCESS DENIED ⛔</h3>
 </div>
