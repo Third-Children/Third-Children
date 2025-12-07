@@ -52,7 +52,7 @@
 ### 📊 Contribution Graph (My Heart Rate)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Third-Children&theme=hotred-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Third-Children&theme=purple&hide_border=true" />
 </p>
 
 <p align="center">
